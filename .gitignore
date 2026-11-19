@@ -1,0 +1,5 @@
+.env
+.venv/
+stories/
+__pycache__/
+*.pyc
